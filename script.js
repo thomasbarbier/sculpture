@@ -9,6 +9,22 @@ const sculptures = [
     titre: "Découverte",
     description: "Taille direct sur calcaire",
     image: "images/decouverte.jpg"
+  },
+
+  {
+    titre: "L'homme blessé",
+    description: "Taille direct sur abricotier",
+    image: "images/lhommeblesse.jpg"
+  },
+  {
+    titre: "Main (titre à confirmer)",
+    description: "Taille direct sur ?",
+    image: "images/unamed_main.jpg"
+  },
+  {
+    titre: "Titre à confirmer",
+    description: "Taille direct sur ?",
+    image: "images/unamed.jpg"
   }
 ];
 
