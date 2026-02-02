@@ -2,28 +2,28 @@
 const sculptures = [
   {
     titre: "Le passeur",
-    description: "Taille direct sur frêne",
+    description: "Taille directe sur frêne",
     image: "images/lepasseur.jpg"
   },
   {
     titre: "Découverte",
-    description: "Taille direct sur calcaire",
+    description: "Taille directe sur calcaire",
     image: "images/decouverte.jpg"
   },
 
   {
     titre: "L'homme blessé",
-    description: "Taille direct sur abricotier",
+    description: "Taille directe sur abricotier",
     image: "images/lhommeblesse.jpg"
   },
   {
     titre: "Main (titre à confirmer)",
-    description: "Taille direct sur ?",
+    description: "Taille directe sur ?",
     image: "images/unamed_main.jpg"
   },
   {
     titre: "Titre à confirmer",
-    description: "Taille direct sur ?",
+    description: "Taille directe sur ?",
     image: "images/unamed.jpg"
   }
 ];
