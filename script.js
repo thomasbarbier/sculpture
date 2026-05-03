@@ -1,7 +1,7 @@
 // Exemple de données de sculptures
 const sculptures = [
   {
-    titre: "Le passeur",
+    titre: "Arthus, le passeur d'hiver",
     description: "Taille directe sur frêne",
     image: "images/lepasseur.jpg"
   },
@@ -17,14 +17,14 @@ const sculptures = [
     image: "images/lhommeblesse.jpg"
   },
   {
-    titre: "Main (titre à confirmer)",
-    description: "Taille directe sur ?",
-    image: "images/unamed_main.jpg"
+    titre: "Impulsion",
+    description: "Taille directe sur calcaire",
+    image: "images/impulsion.jpg"
   },
   {
-    titre: "Titre à confirmer",
-    description: "Taille directe sur ?",
-    image: "images/unamed.jpg"
+    titre: "Abysses",
+    description: "Taille directe sur tilleul",
+    image: "images/abysses.jpg"
   }
 ];
 
