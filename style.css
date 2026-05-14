@@ -215,3 +215,45 @@ footer p {
 .evenement-link:hover {
   text-decoration: underline;
 }
+
+/* Image */
+.evenement-image-container {
+  flex-shrink: 0;
+}
+
+.evenement-image {
+  width: 140px;
+  height: 140px;
+
+  object-fit: cover;
+
+  border-radius: 10px;
+
+  cursor: pointer;
+
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+
+  transition: transform 0.2s ease;
+}
+
+.evenement-image:hover {
+  transform: scale(1.03);
+}
+
+.evenement-item-with-image {
+  display: flex;
+
+  justify-content: space-between;
+  align-items: flex-start;
+
+  gap: 2em;
+
+  border-left: 4px solid #444;
+
+  padding-left: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.evenement-content {
+  flex: 1;
+}
