@@ -25,6 +25,26 @@ const sculptures = [
     titre: "Abysses",
     description: "Taille directe sur tilleul",
     image: "images/abysses.jpg"
+  },
+  {
+    titre: "Naissance",
+    description: "Taille directe sur granite",
+    image: "images/naissance.jpg"
+  },
+  {
+    titre: "Esquisse",
+    description: "Assemblage métal",
+    image: "images/esquisse.jpg"
+  },
+  {
+    titre: "Mirage",
+    description: "Taille directe sur frêne",
+    image: "images/mirage.jpg"
+  },
+  {
+    titre: "L'âme perdue",
+    description: "Taille directe sur calcaire",
+    image: "images/lameperdue.jpg"
   }
 ];
 
