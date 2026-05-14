@@ -257,3 +257,30 @@ footer p {
 .evenement-content {
   flex: 1;
 }
+
+.galerie-filtres {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin-bottom: 1.5em;
+}
+
+.filtre-btn {
+  padding: 0.4em 0.8em;
+  border: 1px solid #444;
+  background: white;
+  cursor: pointer;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.filtre-btn:hover {
+  background: #444;
+  color: white;
+}
+
+.filtre-btn.active {
+  background: #444;
+  color: white;
+}
